@@ -6,6 +6,13 @@ Let's learn how to create AWS account and fundamentals of cloud computing
 what is cloud computing ?
 - providing compute resources over internet is called cloud computing.
 
+**Benefits of AWS**
+- pay-per use payment model
+- Instant scalability/go-global in minutes
+- Reliable/redundant
+- Highly secured
+  
+
 Types of cloud computing
 
 - Cloud computing types are divided into two types, they are 1. Service models 2. Deployment models
@@ -84,3 +91,6 @@ Basically there are 4 deployment models in cloud, they are
     **Availability zones**
 
     **Edge Locations**
+
+All right, Let's Start the Cloud skill hunting by [creating AWS account](https://charanwrites.hashnode.dev/how-to-create-free-tier-aws-account).
+
