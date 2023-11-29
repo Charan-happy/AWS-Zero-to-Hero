@@ -2,6 +2,7 @@ Introduction to AWS
 
 Let's learn how to create AWS account and fundamentals of cloud computing 
 
+[Types of cloud computing](#types-of-cloud-computing)
 
 what is cloud computing ?
 - providing compute resources over internet is called cloud computing.
@@ -13,7 +14,7 @@ what is cloud computing ?
 - Highly secured
   
 
-Types of cloud computing
+### Types of cloud computing
 
 - Cloud computing types are divided into two types, they are 1. Service models 2. Deployment models
   
