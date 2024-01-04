@@ -50,22 +50,20 @@ using virtualization increases the efficient use of hardware, which in turn lowe
 - IAAS Provides the greatest degree of flexibility and customization of the three cloud computing types.
 - EX : Digital ocean
   
-  ![on-premises](/images/on-Premises.png)
+  ![on-premises](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/blob/main/Images/on-Premises.png)
 
-  ![IAAS](/images/IAAS.png)
+  ![IAAS](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/blob/main/Images/IAAS.png)
 
-  ![PAAS](/images/PAAS.png)
+  ![PAAS](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/blob/main/Images/PAAS.png)
 
-  ![SAAS](/images/SAAS.png)
+  ![SAAS](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/blob/main/Images/SAAS.png)
 
-![IAAS_analogy](/images/IAAS_analogy.png)
+![IAAS_analogy](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/blob/main/Images/IAAS_analogy.png)
 
-![PAAS_analogy](/images/PAAS_analogy.png)
+![PAAS_analogy](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/blob/main/Images/PAAS_analogy.png)
+![SAAS_analogy](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/blob/main/Images/SAAS_analogy.png)
 
-![SAAS_analogy](/images/SAAS_analogy.png)
-
-
-![cloudcomputing stack](/Images/Types%20of%20Cloud%20Computing%20Stack.png)
+![cloudcomputing stack](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/blob/main/Images/Types%20of%20Cloud%20Computing%20Stack.png)
 
 # Types of cloud computing (Based on deployment Models)
 - The world "deployment" used in computing circles, is usually refers to all the activities involved in making software or hardware available and ready for use : installation, configuration (setting up), testing, making changes, and then running
@@ -78,7 +76,7 @@ Basically there are 4 deployment models in cloud, they are
 3. Hybrid Cloud
 4. Community cloud
 
-![Cloud_deployment model](/images/Cloud%20Deployment%20Model.png)
+![Cloud_deployment model](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/blob/main/Images/Cloud%20Deployment%20Model.png)
 
 **Private clouds** are computing resources managed by a specific organization for internal business goals or objectives that typically reside on a company’s intranet or hosted data center. (It’s important to note here that a cloud doesn’t necessarily have to be on the internet.) 
 
