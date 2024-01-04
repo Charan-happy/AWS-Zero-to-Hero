@@ -133,7 +133,7 @@ Ways to Access IAM :
 
 IAM provides the infrastructure necessary to control authentication and authorization for your AWS account. The IAM infrastructure is illustrated by the following diagram:
 
-![how iam works](/images/HOW-IAM-Works.png)
+![how iam works](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/blob/main/Images/HOW-IAM-Works.png)
 
 First, a human user or an application uses their sign-in credentials to authenticate with AWS. Authentication is provided by matching the sign-in credentials to a principal (an IAM user, federated user, IAM role, or application) trusted by the AWS account.
 
@@ -184,7 +184,7 @@ Workload
 
 A collection of resources and code that delivers business value, such as an application or backend process. Can include applications, operational tools, and components.
 
-![IAM Terms](/images/iam-terms.png)
+![IAM Terms](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/blob/main/Images/iam-terms.png)
 
 # users in AWS
 
