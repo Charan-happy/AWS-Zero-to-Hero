@@ -1,0 +1,36 @@
+1) what is Cloud Computing?
+26) what is AWS?
+27) what is EC2?
+28) How we can configure the EC2 instance?
+29) What is AMI?
+30) How we can choose which instance type is required?
+31) From where can we enable termination protection in EC2?
+32) Suppose we have to install Ubuntu then where do we have to define OS while launching the EC2 instance?
+33) what is .pem?
+34) if we stop the ec2 instance then is the Private IP will change? or Not?
+35) Can you explain about inbound rules of the default security group?
+36) what is the Use of public and private IP?
+37) what is a Security Group?
+38) security Group is stateful How?
+39) what is VPC?
+40) what is CIDR?
+41) what is Subnetting?
+42) what is an internet gateway?
+43) what is Nat and why do we use nat gateway?
+44) what is Elastic IP?
+45) Tell me about VPC peering.
+46) what is S3?
+47) what is Cloudtrail?
+48) what is Cloudfront?
+49) what is blue/green deployment?
+50) what is Cloudformation and terraform?
+51) what is Elastic beanstalk?
+52) what is RDS? Is there a need to worry about backups?
+53) what is Autoscaling and How many types of autoscaling policies?
+54) what is Loadbalancer?
+55) What is the difference between ALB and ELB?
+56) what is PAAS?
+57) Suppose you are working in a new company and you don’t know how to work on new projects for the new company then which approach you will follow?
+58) what is ACM?
+59) what is shell scripting? How do we use the script for Automation?
+60) what is MySQL? How many ways we can use to take backup?
