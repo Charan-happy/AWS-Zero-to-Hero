@@ -212,3 +212,5 @@ ABAC provides the following advantages over the traditional RBAC model:
 
 
 [Additional in_depth Reading about IAM](https://docs.aws.amazon.com/IAM)
+
+Now we have our permissions Ready to start something in AWS cloud, go ahead with [Day3](https://github.com/charan-happy/AWS-Devops_Zero-to-Hero/tree/main/Day3)
