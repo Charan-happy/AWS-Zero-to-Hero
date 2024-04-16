@@ -84,12 +84,17 @@ Basically there are 4 deployment models in cloud, they are
 
 **Community/hybrid cloud**
 
-**Global Infrastructure**
-    **Regions**
+#### Global Infrastructure
 
-    **Availability zones**
+ **Regions**
+ - AWS Regions are geographically dispersed areas around the world that contain multiple Availability Zones. Customers can choose the region that best meets their requirements for factors such as data sovereignty, latency, and costs. 
 
-    **Edge Locations**
+  **Availability zones**
+  - AWS Availability Zones (AZs) are distinct physical data center locations within a region, designed for high availability. They are interconnected with low-latency networking and offer redundant power, cooling, and networking. 
+
+  **Edge Locations**
+  - AWS Edge Locations are strategically positioned points of presence in the AWS network, optimized for low-latency content delivery. They are used to reduce latency for end-users by serving content from locations closer to them
+
 
 All right, Let's Start the Cloud skill hunting by [creating AWS account](https://charanwrites.hashnode.dev/how-to-create-free-tier-aws-account).
 
