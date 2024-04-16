@@ -98,3 +98,4 @@ Basically there are 4 deployment models in cloud, they are
 
 All right, Let's Start the Cloud skill hunting by [creating AWS account](https://charanwrites.hashnode.dev/how-to-create-free-tier-aws-account).
 
+See you on [Day2](https://github.com/charan-happy/AWS-Devops_Zero-to-Hero/tree/main/Day2)
