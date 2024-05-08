@@ -2,6 +2,16 @@ AWS Networking (VPC)
 
 can launch AWS resources in a logically isolated virtual network that you've defined. This virtual network closely resembles a traditional network that you'd operate in your own data center, with the benefits of using the scalable infrastructure of AWS.
 
+## VPC Dashboard
+<details><summary>Virtual Private Cloud</summary>your vpcs <br> Subnets <br> Route tables <br> internet Gateways <br> Egress-only internet gateways <br> DHCP option sets <br> Elastic IPs <br> Managed prefix lists <br> Endpoints <br> Endpoint Services <br>NAT Gateways <br> Peering connections</details>
+<details><summary>Security </summary>Network ACLs<br>Security Groups</details>
+<details><summary>DNS firewall </summary>Rule groups <br> Domain lists</details>
+<details><summary>Network Firewall</summary>Firewalls <br> Firewall policies <br> Network Firewall rule groups <br> TLS inspection configurations<br> Network firewall resource groups </details>
+<details><summary>Virtual Private Network (VPN) </summary>Customer gateways <br> Virtual Private gateways <br> site-to-site VPN connections <br> Client VPN endpoints</details>
+<details><summary>AWS Verified Access</summary>Verified Access instances <br> Verified Access trust providers <br> Verified Access Groups <br> Verified Access endpoints</details>
+<details><summary>Transit Gateways </summary>Transit gateways <br> Transit gateway attachments <br> Transit gateway policy tables <br> Transit gateway route tables <br>Transit gateway multicast</details>
+<details><summary>Traffic Mirroring</summary>Mirror sessions<br> Mirror Targets <br>Mirror filters</details>
+
 # features
 
 # Getting started
