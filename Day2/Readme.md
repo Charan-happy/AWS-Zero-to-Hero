@@ -1,5 +1,10 @@
 I AM [Identity Access Management]
 
+Dashboard Walkthrough :
+
+<details> <summary>Access management</summary>User groups <br> users <br> Roles <br> Policies <br> Identity Providers <br> Account Settings</details>
+
+<details><summary>Access Reports</summary>Access Analyzer <br>-  Exeternal Access <br> - Unused access <br> - Analyser settings <br> Credential Report <br>Organization activity <br> Service control policies</details>
 First, let's see what are the concepts that we need to learn in IAM Services in AWS.
 
 # How IAM Works
