@@ -1,4 +1,17 @@
-Amazon S3
+# Amazon S3
+
+## DashBoard Walkthrough :
+- Buckets
+- Access Grants
+- Access Points
+- object Lambda Access Points
+- Multi-Region Access Points
+- Batch Operations
+- IAM Access Analyzer for Se
+- Block public Access settings for this account
+
+<details><summary>Storage Lens</summary>Dashboards<br>Storage Lens groups <br> AWS Organizations Settings</details>
+<details><summary>AWS MarketPlace for S3</summary>Storage, Backup and Recovery <br>Data integration and Analytics <br> Observability and Monitoring <br> Security and threat Detection <br> Permissions</details>
 
 ## Introduction :
 
