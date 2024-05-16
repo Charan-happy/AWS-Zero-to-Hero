@@ -9,9 +9,13 @@ AWS security groups and network access control lists (NACLs) are two essential t
 
 Security groups are associated with individual EC2 instances or groups of instances. They allow you to specify which IP addresses or security groups are allowed to access your instances. You can create multiple security groups and apply them to different instances or groups of instances, giving you granular control over network access.
 
+- It is a concept for both EC2 and VPC. It has Inbound , outbound rules and Tags and Delete Security group options 
+
 ## NACLs
 
 NACLs are associated with subnets and apply to all instances within that subnet. They allow you to control which traffic is allowed to enter or leave the subnet. NACLs are stateless, meaning that they do not track the state of connections. This can be advantageous in some cases, but it also means that you need to be careful when configuring NACLs to avoid accidentally blocking legitimate traffic.
+
+- NACL is a VPC feature, It has Inbound, outbound, subnet associations, Manage tags, Delete NACL
 
 ## Using Security Groups and NACLs Together
 
