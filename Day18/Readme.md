@@ -1,5 +1,14 @@
 AWS Cloudwatch Events and EventBridge
 
+Amazon Event Bridge Dashboard walkthrough :
+
+<details><summary>Developer Resources</summary>Learn<br>sandbox<br>quickstarts</details>
+<details><summary>Buses</summary>Event buses <br> rules <br> Global endpoints <br> Archives <br> replays</details>
+<details><summary>pipes</summary>pipes</details>
+<details><summary>scheduler</summary>schedules <br> schedule groups</details>
+<details><summary>Integration</summary>partner event sources <br> API Destinations</details>
+<details><summary>schema registry</summary>schemas</details>
+
 AWS Cloud Cost Optimization - Identifying Stale Resources
 Identifying Stale EBS Snapshots
 In this example, we'll create a Lambda function that identifies EBS snapshots that are no longer associated with any active EC2 instance and deletes them to save on storage costs.
