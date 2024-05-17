@@ -1,5 +1,13 @@
 AWS LAMBDA
 
+Dashboard Walkthrough :
+
+Dashboard
+Applications
+Functions
+<details><summary>Additional Resources</summary>code signing configurations<br>Event source mappings <br> layers<br>replicas</details>
+<details><summary>Related AWS Resources</summary>Step functions state machines</details>
+
 AWS Lambda is a serverless compute service that runs your code in response to events. It is designed to be highly scalable, reliable, and cost-effective. With Lambda, you can run code without having to provision or manage servers.
 
 How does Lambda work?
