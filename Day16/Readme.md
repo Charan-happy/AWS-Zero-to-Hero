@@ -4,14 +4,14 @@ Dashboard Walkthrough :
 
 overview
 Dashboards
-<details><summary>Alarms</summary></details>
-<details><summary>logs</summary></details>
-<details><summary>Metrics</summary></details>
-<details><summary>xray traces</summary></details>
-<details><summary>events</summary></details>
-<details><summary>application signals</summary></details>
-<details><summary>Network Monitoring</summary></details>
-<details><summary>Insights</summary></details>
+<details><summary>Alarms</summary>inalarm <br> All alarms</details>
+<details><summary>logs</summary>log groups <br>log anomalies<br>Live tail <br> Logs insight</details>
+<details><summary>Metrics</summary>All metrics <br> Explorer <br> Streams</details>
+<details><summary>xray traces</summary>Traces <br> Trace Map</details>
+<details><summary>events</summary>Rules <br> Event Buses</details>
+<details><summary>application signals</summary>servicelens map <br> Synthetics Canaries <br> RUM</details>
+<details><summary>Network Monitoring</summary>Internet Monitor <br> Network Monitor</details>
+<details><summary>Insights</summary>Container insights <br> Lambda Insights <br> Contributor Insights <br> Application Insights <br> EC2 Resource health</details>
 settings
 
 Getting started
