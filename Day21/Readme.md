@@ -1,5 +1,13 @@
 AWS ECS(Elastic Container Service)
 
+Dashboard Walkthrough :
+
+clusters<br>
+Namespaces<br>
+Task definitions<br>
+Account settings 
+
+
 Amazon Elastic Container Service (Amazon ECS) is a highly scalable, fast, container management service that makes it easy to run, stop, and manage containers on a cluster of Amazon EC2 instances.
 
 With Amazon ECS, you can launch and stop container-based applications with simple API calls, allowing you to scale your applications up and down based on demand. You can also use Amazon ECS to deploy your applications to multiple Availability Zones for increased fault tolerance.
