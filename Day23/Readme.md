@@ -1,5 +1,15 @@
 AWS Systems Manager
 
+Dashboard Walkthrough :
+
+Quick setup
+
+<details><summary>operations management</summary>explorer <br> opscenter<br>cloudwatch Dashboard<br> incident manager</details>au
+<details><summary>Application Management</summary>Application Manager <br> App config <br> parameter store</details>
+<details><summary>change management</summary>change manager <br>automation <br> change calender <br> maintenance windows</details>
+<details><summary>Node management</summary>Fleet manager<br>compliance<br>inventory<br>Hybrid Activations<br>Session Manager<br>run command<br>state management <br> patch manager<br>distributor</details>
+<details><summary>Shared Resources</summary>documents</details>
+
 Amazon Web Services (AWS) Systems Manager is a cloud-based service that provides visibility and control over your infrastructure on AWS. It allows you to manage your servers, applications, and data across multiple operating systems and platforms.
 
 Systems Manager includes a variety of features, including:
