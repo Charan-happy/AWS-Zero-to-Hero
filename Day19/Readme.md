@@ -1,5 +1,17 @@
 AWS CloudFront
 
+Dashboard Walkthrough :
+
+Distributions<br>
+policies <br>
+functions<br>
+<details><summary>Telemetry</summary>Monitoring<br>alarms<br> logs</details>
+<details><summary>Reports and analysis</summary>cache statistics <br>popular objects <br> Top references <br> Usage <br> Viewers</details>
+<details><summary>security</summary>origin access <br> Field-level encryption</details>
+<details><summary>Keymanagement</summary>public keys<br>keygroups</details>
+<details><summary>savings bundle</summary>overview <br> inventory<br>purchase</details>
+
+
 Comprehensive Guide to CDN and CloudFront on AWS for Beginners
 If you've never heard of CDN or CloudFront before, don't worry. we'll start from scratch and gradually build up your understanding. By the end, you'll be well-versed in these technologies. So lets get started.
 
