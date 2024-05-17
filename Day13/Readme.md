@@ -1,5 +1,9 @@
 AWS Codepipeline
 
+Dashboard Walkthrough :
+
+<details><summary> pipeline</summary>Getting Started <br> pipelines</details> **code pipeline**
+
 AWS CodePipeline is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software. You can quickly model and configure the different stages of a software release process
 
 topics
