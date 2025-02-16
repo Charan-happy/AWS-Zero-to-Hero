@@ -6,6 +6,64 @@
 [AWS services Summary card](https://www.analogiescloud.com/service-summary-cards/)
 
 
+# AWS Learning Roadmap
+
+ A Beginner’s Roadmap 🚀
+
+1. Core Services Every Beginner Should Learn:
+- Amazon S3 (Simple Storage Service)
+- EC2 (Elastic Compute Cloud)
+- RDS (Relational Database Service)
+- CloudFront (Content Delivery Network)
+- Amazon DynamoDB (NoSQL Database Service)
+- AWS Lambda (Serverless Compute)
+- AWS API Gateway (HTTP or REST APIs)
+
+2. Essential AWS Tools:
+- AWS Management Console
+- AWS CLI (Command Line Interface)
+- AWS CloudFormation (Infrastructure as Code)
+
+3. Practical Projects to Build:
+- Host a static website on S3
+- Create a basic web server on EC2
+- Set up RDS database and enable access from EC2
+- Build a dynamic web app using EC2, RDS and ALB
+- Deploy a serverless app with AWS Lambda and API Gateway (Configure rate limits and secure Lambda)
+- Set up CloudFront with S3 for a simple static website
+
+4. Free Learning Resources:
+- AWS Free Tier (practice for free)
+- AWS Skill Builder (official AWS learning platform)
+- 
+@StephaneMaarek
+ (course creator)
+- 
+@Njuchi_
+ (course creator on YT)
+- 
+@BeABetterDevv
+ (course creator on YT)
+
+5. Next Steps:
+- Learn about IAM (Identity and Access Management)
+- Study basic networking with VPC and Subnets
+- Understand monitoring with CloudWatch
+
+6. Bonus:
+- Deploy whole infrastructure with Terraform
+- Automate app deployments with GitHub Actions
+- Secure access to RDS and EC2 with security groups
+
+Tips for Success:
+- Start small, build gradually
+- Use the free tier wisely
+- Join AWS communities
+- Practice hands-on daily
+
+AWS is huge, but you don’t need to learn everything at once. Focus on these basics first, and you’ll build a strong foundation!
+
+
 |||
 |---|---|
 |Day1| [Understanding of Cloud basics](https://github.com/Charan-happy/AWS-Devops_Zero-to-Hero/tree/main/Day1)|
